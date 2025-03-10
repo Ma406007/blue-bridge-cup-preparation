@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\PreparationDay05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52A409A0-6419-40AA-B51B-80EFB5634310}|PreparationDay05\\PreparationDay05.vcxproj|E:\\lanqiaobei\\blue-bridge-cup-preparation\\PreparationDay05\\PreparationDay05\\PracticeDay05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52A409A0-6419-40AA-B51B-80EFB5634310}|PreparationDay05\\PreparationDay05.vcxproj|solutionrelative:PreparationDay05\\PracticeDay05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeDay05.cpp",
+              "DocumentMoniker": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\PreparationDay05\\PreparationDay05\\PracticeDay05.cpp",
+              "RelativeDocumentMoniker": "PreparationDay05\\PracticeDay05.cpp",
+              "ToolTip": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\PreparationDay05\\PreparationDay05\\PracticeDay05.cpp",
+              "RelativeToolTip": "PreparationDay05\\PracticeDay05.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T09:50:01.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
