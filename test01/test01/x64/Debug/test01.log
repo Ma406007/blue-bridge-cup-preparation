@@ -1,0 +1,6 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test01.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Leetcode01.cpp
+E:\lanqiaobei\blue-bridge-cup-preparation\test01\test01\Leetcode01.cpp(11,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\lanqiaobei\blue-bridge-cup-preparation\test01\test01\Leetcode01.cpp(22,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+E:\lanqiaobei\blue-bridge-cup-preparation\test01\x64\Debug\Leetcode01.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\test01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D2205E-11F0-41CA-95C0-DBCC431F9392}|test01\\test01.vcxproj|E:\\lanqiaobei\\blue-bridge-cup-preparation\\test01\\test01\\Leetcode01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94D2205E-11F0-41CA-95C0-DBCC431F9392}|test01\\test01.vcxproj|solutionrelative:test01\\Leetcode01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leetcode01.cpp",
+              "DocumentMoniker": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\test01\\test01\\Leetcode01.cpp",
+              "RelativeDocumentMoniker": "test01\\Leetcode01.cpp",
+              "ToolTip": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\test01\\test01\\Leetcode01.cpp",
+              "RelativeToolTip": "test01\\Leetcode01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T14:47:54.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
