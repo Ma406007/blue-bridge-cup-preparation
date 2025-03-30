@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\LeetCode02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB969D05-7C7A-43CE-BED2-7A8860D969EC}|LeetCode02\\LeetCode02.vcxproj|E:\\lanqiaobei\\blue-bridge-cup-preparation\\LeetCode02\\LeetCode02\\LeetCode02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB969D05-7C7A-43CE-BED2-7A8860D969EC}|LeetCode02\\LeetCode02.vcxproj|solutionrelative:LeetCode02\\LeetCode02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeetCode02.cpp",
+              "DocumentMoniker": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\LeetCode02\\LeetCode02\\LeetCode02.cpp",
+              "RelativeDocumentMoniker": "LeetCode02\\LeetCode02.cpp",
+              "ToolTip": "E:\\lanqiaobei\\blue-bridge-cup-preparation\\LeetCode02\\LeetCode02\\LeetCode02.cpp",
+              "RelativeToolTip": "LeetCode02\\LeetCode02.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:18:24.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
