@@ -1,0 +1,17 @@
+﻿  LeetCode27.cpp
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(46,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(47,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,16): error C2087: “abstract declarator”: 缺少下标
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,21): error C2146: 语法错误: 缺少“)”(在标识符“grid”的前面)
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,21): error C3646: “grid”: 未知重写说明符
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,27): error C2062: 意外的类型“int” 
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,49): error C2059: 语法错误:“{”
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,49): error C2334: “{”的前面有意外标记；跳过明显的函数体
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(90,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(98,36): error C2660: “Solution::dfs”: 函数不接受 2 个参数
+      E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(73,9):
+      参见“Solution::dfs”的声明
+      E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(98,36):
+      尝试匹配参数列表“(int, int)”时
+  
+E:\lanqiaobei\blue-bridge-cup-preparation\LeetCode27\LeetCode27.cpp(123,29): error C2429: 语言功能 "结构化绑定" 需要编译器标志 "/std:c++17"
